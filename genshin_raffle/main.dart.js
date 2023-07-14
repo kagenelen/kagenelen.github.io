@@ -71085,7 +71085,7 @@ M(a){return B.B3}}
 A.wa.prototype={
 ai(){var s=t.s,r=A.a([],s),q=A.anG(null),p=A.a([],s),o=new A.Hg()
 o.a=A.aCK(B.zM)
-return new A.O8(r,q,p,o,A.a(["Albedo","Alhaitham","Amos' Bow","Aquila Favonia","Arataki Itto","Cyno","Dehya","Diluc","Eula","Ganyu","Hu Tao","Jean","Kaedehara Kazuha","Kamisato Ayaka","Kamisato Ayato","Keqing","Klee","Lost Prayer to the Sacred Winds","Mona","Nahida","Nilou","Primordial Jade Winged-Spear","Qiqi","Raiden Shogun","Sangonomiya Kokomi","Shenhe","Skyward Atlas","Skyward Blade","Skyward Harp","Tartaglia","Tighnari","Venti","Wanderer","Xiao","Yae Miko","Yelan","Yoimiya","Zhongli"],s),B.k)}}
+return new A.O8(r,q,p,o,A.a(["Albedo","Alhaitham","Amos","Aquila","Itto","Cyno","Dehya","Diluc","Eula","Ganyu","HuTao","Jean","Kazuha","Ayaka","Ayato","Keqing","Klee","LostPrayer","Mona","Nahida","Nilou","PJWS","Qiqi","Raiden","Kokomi","Shenhe","SkywardAtlas","SkywardBlade","SkywardHarp","Tartaglia","Tighnari","Venti","Wanderer","Xiao","Yae","Yelan","Yoimiya","Zhongli"],s),B.k)}}
 A.O8.prototype={
 az(){this.aZ()
 A.EZ(new A.abD(this),t.P)},
