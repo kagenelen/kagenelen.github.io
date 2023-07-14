@@ -71159,7 +71159,7 @@ while(true)switch(s){case 0:j={}
 i=q.a
 i.U(new A.abt(i))
 p=i.r
-o="asset:///assets/"+i.x[B.kh.Ot(38)]+".mp4"
+o="asset:///assets/assets/"+i.x[B.kh.Ot(38)]+".mp4"
 n=A.ai6(o)
 m=$.aqT()
 l=m.i(0,A.ai6(o))
