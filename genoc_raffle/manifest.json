@@ -1,6 +1,6 @@
 {
-    "name": "lib",
-    "short_name": "lib",
+    "name": "qraffle",
+    "short_name": "qraffle",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
